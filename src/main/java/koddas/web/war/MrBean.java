@@ -9,12 +9,12 @@
  * 
  * @author Johan Holmberg
  */
-public class MrBean implements Serializable {
+//public class MrBean implements Serializable {
 	/**
 	 * Being a serializable class, the bean needs a unique identification
 	 * number in order for the Java system to recreate saved objects.
 	 */
-	private static final long serialVersionUID = -3168349974480377280L;
+	//private static final long serialVersionUID = -3168349974480377280L;
 	
 	private String name;
 	private int age;
